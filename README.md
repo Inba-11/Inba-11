@@ -1,4 +1,5 @@
-# Hi, I'm Inbatamizhan P 👋
+Hi, I'm Inbatamizhan 👋  
+I turn coffee ☕ into code 💻
 
 I'm a passionate **Full Stack Developer**, **Java & DSA learner**, and open-source enthusiast from **Coimbatore, India**. I love building projects, solving problems, and contributing to the developer community.
 
