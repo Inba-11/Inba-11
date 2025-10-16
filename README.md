@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Inbatamizhan P 👋
 
-<!--
-**Inba-11/Inba-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer**, **Java & DSA learner**, and open-source enthusiast from **Coimbatore, India**. I love building projects, solving problems, and contributing to the developer community.
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🔭 Currently working on **MyCampus 4.0** (academic web app with AI integration)
+- 🌱 Learning **MERN stack**, **DevOps**, and **open-source contributions**
+- 👯 Looking to collaborate on **full-stack web projects** and **open-source**
+- ⚡ Fun fact: I like to turn complex ideas into simple, functional projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Java, JavaScript, TypeScript, HTML, CSS  
+**Frontend:** React.js, Vite.js  
+**Backend / API:** Node.js, Express, Gemini API  
+**Tools & Platforms:** Git, GitHub, VS Code, Local Storage, Supabase  
+
+## 📈 Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inba-11&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inba-11&layout=compact&theme=dark)  
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/inbatamizhan)  
+- [GitHub](https://github.com/Inba-11)  
+- [Portfolio / Projects](https://github.com/Inba-11/MyCampus4.0)  
+
+---
+
