@@ -1,5 +1,5 @@
-Hi, I'm Inbatamizhan 👋  
-I turn coffee ☕ into code 💻
+![Inbatamizhan P](https://img.shields.io/badge/-Inbatamizhan%20P-blueviolet?style=for-the-badge&logo=github&logoColor=white)
+
 
 I'm a passionate **Full Stack Developer**, **Java & DSA learner**, and open-source enthusiast from **Coimbatore, India**. I love building projects, solving problems, and contributing to the developer community.
 
