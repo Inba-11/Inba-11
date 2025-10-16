@@ -24,6 +24,8 @@ I'm a passionate **Full Stack Developer**, **Java & DSA learner**, and open-sour
 - [GitHub](https://github.com/Inba-11)  
 - [Portfolio / Projects](https://github.com/Inba-11/MyCampus4.0)  
 
+[![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-orange?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/Inba)
+
 ---
 <!DOCTYPE html>
 <html lang="en">
