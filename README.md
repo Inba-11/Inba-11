@@ -24,7 +24,8 @@ I'm a passionate **Full Stack Developer**, **Java & DSA learner**, and Tech enth
 - [Codech](https://github.com/Inba-11)  
 - [Portfolio](https://portfolio-livid-nine-zuxe7ln1hb.vercel.app/)  
 
-[![Codolio Profile](https://codolio.com/profile/Inba/badge)](https://codolio.com/profile/Inba)
+ Coding Profile
+[Codolio Profile](https://codolio.com/profile/Inba/badge)](https://codolio.com/profile/Inba)
 
 
 
