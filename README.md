@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Developer**, **Java & DSA learner**, and Tech enth
 ## 💻 About Me
 - 🔭 Currently working on **MyCampus ** (academic web app with AI integration)
 - 🌱 Learning **MERN stack**, **DevOps**
-- 👯 Looking to collaborate on **full-stack web projects** and **open-source**
+- 👯 Looking to collaborate on **full-stack web projects** 
 - ⚡ Fun fact: I like to turn complex ideas into simple, functional projects
 
 ## 🛠️ Tech Stack
