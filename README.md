@@ -23,6 +23,6 @@ I'm a passionate **Full Stack Developer**, **Java & DSA learner**, and Tech enth
 - [LinkedIn](https://www.linkedin.com/in/inbatamizhan-p-232a23295/)  
 - [GitHub](https://github.com/Inba-11)  
 - [Portfolio](https://portfolio-livid-nine-zuxe7ln1hb.vercel.app/)  
-- [Codolio Profile](https://codolio.com/profile/Inba) ![Codolio Badge](https://codolio.com/profile/Inba/badge)  
+- [Codolio Profile](https://codolio.com/profile/Inba) 
 - [CodeChef](https://www.codechef.com/users/kit27csbs23)  
 
