@@ -1,67 +1,103 @@
-<h1 align="center">Hi 👋, I'm Inbatamizhan P</h1>
-<h3 align="center">A passionate Full Stack Developer, Java & DSA learner, and Tech Enthusiast from Coimbatore, India. I love building projects, solving problems, and contributing to the developer community.</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=ffffff&height=130&section=header&text=Dhivakar%20S&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20UI/UX%20Designer&descAlignY=70&descSize=15" alt="header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+To+My+Space+%F0%9F%9B%B8;Building+Elegant+Website+%F0%9F%8C%A0;Passonate+UI/UX+Designer+%E2%9C%A8;" alt="Typing SVG" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+<h2>About Me</h2>
+<p>Passionate developer who loves crafting full-stack web applications with stunning UI/UX and tackling complex coding challenges. Currently exploring the depths of  React, Node and MongoDB, while strengthening my problem-solving foundation with C++ and Python. I’m always eager to learn, build, and collaborate creating impactful and innovative digital solutions that push the boundaries of technology, inspired by the vastness of space..</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+
+## 🛠️ Technical Skills
+
+<div >
+
+### Programming Language 
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=000000)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=000000)
+
+### Backend & Databse
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=000000)
+
+### Computative Programming
+[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit27csbs14)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/kit27csbs14)
+[![Codeolio](https://img.shields.io/badge/Codeolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codolio.com/profile/Dhiva_S)
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+
+<div align="center">
+
+### 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhiva-1510&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiva-1510&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
+
+### 📈 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiva-1510&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+### Currently Learning
+- Advanced Data Structures and Algorithms
+- Full-Stack Web Development (MERN Stack)
+- Competitive Programming Techniques
+- Machine Learning and AI Integration
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inba-11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="http://www.linkedin.com/in/dhivakar-sankar">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Dhiva-1510">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:kit27.csbs14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.codechef.com/users/kit27csbs14">
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef">
+  </a>
+  <a href="https://leetcode.com/u/kit27csbs14">
+    <img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000" alt="Leetcode">
+  </a>
+  <a href="https://codolio.com/profile/Dhiva_S">
+    <img src="https://img.shields.io/badge/Codeolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codolio">
+  </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=inba-11" alt="GitHub Trophy" />
-  </a>
+🌌 ✨ Debugging feels like exploring a space, mysterious but fascinating ✨🌌
 </p>
-
-## 💻 Current Work
-- 🔭 Currently working on [MyCampus](https://my-campus3-0.vercel.app/)
-- 🌱 Learning **HTML, CSS, Bootstrap, React.js, Node.js, Java, Python, SQL, Firebase**
-- 👨‍💻 All my projects are available at [Portfolio](https://portfolio-livid-nine-zuxe7ln1hb.vercel.app/)
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/inbatamizhan-p-232a23295/)
-
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/inbatamizhan-p-232a23295/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="https://www.codechef.com/users/kit27csbs23" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" height="30"/>
-  </a>
-  <a href="https://leetcode.com/u/user1942nx/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
-  </a>
-  <a href="https://codolio.com/profile/Inba" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Codolio" width="30" height="30"/>
-  </a>
-</p>
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-</p>
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=inba-11&show_icons=true&locale=en" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inba-11&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inba-11" alt="GitHub Streak" />
-</p>
-
