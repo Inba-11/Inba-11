@@ -112,9 +112,10 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
 <!-- Pacman Contribution Graph -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/main/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Inba-11/Inba-11/main/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
+
 
