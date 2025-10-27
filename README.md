@@ -1,4 +1,8 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=INBATAMIZHAN%20P&textBg=true&animation=scaleIn&reversal=true
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=INBATAMIZHAN%20P&textBg=true&animation=scaleIn&reversal=true" alt="header" />
+</p>
+
 
 
 ## 👨‍💻 About Me
