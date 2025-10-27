@@ -75,7 +75,7 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
 - Advanced **Data Structures & Algorithms**
 - **MERN Stack** full-stack projects
 - **DevOps & Docker Fundamentals**
-- **Machine Learning** integration in web apps
+- 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
