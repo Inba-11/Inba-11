@@ -14,7 +14,7 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
 </p>
 
 - 🔭 Currently working on [**MyCampus**](https://my-campus3-0.vercel.app/)
-- 🌱 Learning: **React.js, Node.js, MongoDB, Java, Docker, DevOps Basics**
+- 🌱 Learning: **React.js, Node.js, MongoDB, Java, Jenkins, DevOps Basics**
 - 💡 Interests: Web Development, Cloud & DevOps, Open Source
 - 📫 Connect: [**LinkedIn**](https://www.linkedin.com/in/inbatamizhan-p-232a23295/)
 - 🧑‍💻 Portfolio: [**Portfolio Site**](https://portfolio-livid-nine-zuxe7ln1hb.vercel.app/)
