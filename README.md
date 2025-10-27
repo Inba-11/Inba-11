@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=130&section=header&text=Inbatamizhan%20P&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20%26%20DSA%20Learner&descAlignY=70&descSize=15" alt="header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Welcome+to+My+GitHub+Universe+🚀;Building+Scalable+and+Creative+Apps+🌍;Exploring+Full+Stack+Development+and+DevOps+⚙️;" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:1a1a1a&height=130&section=header&text=Inbatamizhan%20P&fontSize=50&fontColor=00FFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20DSA%20Learner&descAlignY=70&descSize=15" alt="Inbatamizhan Header"/>
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
