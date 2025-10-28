@@ -116,35 +116,13 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg">
   <!-- fallback image (also used by browsers that don't support <picture>) -->
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg"
-    width="800" height="200"
-    loading="lazy"
-    decoding="async"
-    style="max-width:100%;height:auto;display:block;">
-</picture>
 
-<!-- attribution / generator link -->
-<p style="font-size:0.9rem;margin-top:0.25rem;">
-  _generated with
-  <a href="https://abozanona.github.io/pacman-contribution-graph/" target="_blank" rel="noopener noreferrer">
-    abozanona/pacman-contribution-graph
-  </a>_
-</p>
+
 
 
 <p align="center">
 🌌✨ Coding is like exploring space — endless, mysterious, and beautiful ✨🌌
 </p>
 
-<!-- Pacman Contribution Graph -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/main/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Inba-11/Inba-11/main/output/pacman-contribution-graph.svg" />
-  </picture>
-</p>
 
 
