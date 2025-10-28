@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <body style="background:#0d1117;display:flex;justify-content:center;align-items:center;height:100vh;">
+    <canvas id="canvas" width="800" height="600"></canvas>
+    <script type="module">
+      import { PacmanRenderer } from "https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js";
+      const pr = new PacmanRenderer({
+        platform: "github",
+        username: "Inba-11",
+        canvas: document.getElementById("canvas"),
+        outputFormat: "canvas",
+        gameTheme: "github-dark",
+      });
+      pr.start();
+    </script>
+  </body>
+</html>
