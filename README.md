@@ -105,6 +105,35 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
+<!-- Pacman contribution graph (works for GitHub username "Inba-11") -->
+<picture>
+  <!-- dark mode SVG -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph-dark.svg">
+  <!-- light mode SVG -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg">
+  <!-- fallback image (also used by browsers that don't support <picture>) -->
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg"
+    width="800" height="200"
+    loading="lazy"
+    decoding="async"
+    style="max-width:100%;height:auto;display:block;">
+</picture>
+
+<!-- attribution / generator link -->
+<p style="font-size:0.9rem;margin-top:0.25rem;">
+  _generated with
+  <a href="https://abozanona.github.io/pacman-contribution-graph/" target="_blank" rel="noopener noreferrer">
+    abozanona/pacman-contribution-graph
+  </a>_
+</p>
+
+
 <p align="center">
 🌌✨ Coding is like exploring space — endless, mysterious, and beautiful ✨🌌
 </p>
