@@ -104,6 +104,18 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg" width="800">
+</picture>
+
+<p align="center">
+  <i>Generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">Pac-Man Contribution Graph</a></i>
+</p>
+
 
 
 
