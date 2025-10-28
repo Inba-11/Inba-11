@@ -116,6 +116,18 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg">
   <!-- fallback image (also used by browsers that don't support <picture>) -->
+  ## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg" width="800" loading="lazy">
+</picture>
+
+<p align="center">
+  _generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a>_
+</p>
+
 
 
 
