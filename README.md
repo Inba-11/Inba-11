@@ -128,13 +128,7 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
-## 👾 Pac-Man Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man graph" src="https://raw.githubusercontent.com/Inba-11/Inba-11/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
