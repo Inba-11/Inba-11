@@ -1,147 +1,203 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=INBATAMIZHAN%20P&textBg=true&animation=scaleIn&reversal=true" alt="header" />
-</p>
-
-
-
-## 👨‍💻 About Me
-
-<p>
-I'm <b>Inbatamizhan P</b> — a passionate <b>Full Stack Developer</b>, <b>Java & DSA learner</b>, and <b>tech enthusiast</b> from <b>Coimbatore, India</b>.  
-I love solving complex problems, designing interactive UI/UX, and developing full-stack applications that make an impact.  
-Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for DSA and backend development.
-</p>
-
-- 🔭 Currently working on [**MyCampus**](https://my-campus3-0.vercel.app/)
-- 🌱 Learning: **React.js, Node.js, MongoDB, Java, Jenkins, DevOps Basics**
-- 💡 Interests: Web Development, Cloud & DevOps, Open Source
-- 📫 Connect: [**LinkedIn**](https://www.linkedin.com/in/inbatamizhan-p-232a23295/)
-- 🧑‍💻 Portfolio: [**Portfolio Site**](https://portfolio-livid-nine-zuxe7ln1hb.vercel.app/)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=000000)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=000000)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=000000)
-
-### 🧰 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=000000)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🧮 Competitive Programming
-[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit27csbs23)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/user1942nx/)
-[![Codeolio](https://img.shields.io/badge/Codeolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codolio.com/profile/Inba)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=INBATAMIZHAN%20P&textBg=true&animation=scaleIn&reversal=true" alt="header" />
+</div>
+
+<h1 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h1>
+
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#certifications">Certifications</a> •
+  <a href="#connect-with-me">Connect</a>
+</p>
+
+---
+
+## 👋 About Me
+
+I'm **Inbatamizhan P**, a passionate **Full Stack Developer** and **Tech Enthusiast** from **Coimbatore, India**.
+
+🎯 **What I Do:**
+- Build scalable full-stack web applications with modern frameworks
+- Develop intelligent AI-integrated solutions
+- Create IoT projects and embedded systems
+- Analyze and optimize business processes with data analytics
+- Master cloud platforms and enterprise technologies
+
+💡 **Interests:**
+- Full-Stack Web Development (Frontend & Backend)
+- Artificial Intelligence & Machine Learning
+- Data Analysis & Process Mining
+- IoT & Arduino Projects
+- Cloud Technologies & Serverless Architecture
+- Competitive Programming
+
+🌟 **Personality:**
+I love solving complex problems, designing interactive UI/UX, and developing applications that make a real impact. Passionate about continuous learning and staying updated with the latest tech trends.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Cloud & Enterprise
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Data & Analytics
+![Celonis](https://img.shields.io/badge/Celonis-Process%20Mining-FF6B35?style=for-the-badge)
+![PQL](https://img.shields.io/badge/PQL-Data%20Query-0078D4?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### IoT & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 Key Skills
+
+### Web Development
+- ✅ **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Responsive Design
+- ✅ **Backend:** Python, Node.js/Express.js, RESTful APIs, API Integration
+- ✅ **Full Stack:** End-to-end application development, Database Design
+- ✅ **UI/UX:** Interactive interfaces, User-centric design, Accessibility
+
+### Enterprise & Cloud
+- ✅ **Salesforce:** Configuration, Customization, Trailhead Modules
+- ✅ **Agentforce:** AI Agent Development, Einstein AI Integration
+- ✅ **Cloud Platforms:** AWS, Google Cloud, Serverless Architecture
+- ✅ **Data Cloud:** Enterprise data integration and management
+
+### Data & Analytics
+- ✅ **Process Mining:** Celonis, Process Discovery, Optimization
+- ✅ **PQL:** Complex data queries and analysis
+- ✅ **Data Analysis:** Business Intelligence, Insights Generation
+
+### Software Engineering
+- ✅ **Version Control:** Git, GitHub, Branching Strategies
+- ✅ **Problem Solving:** Competitive Programming, Algorithm Design
+- ✅ **IoT & Embedded:** Arduino, Microcontroller Programming
+
+---
+
+## 🏆 Certifications & Learning
+
+- 🎓 **Salesforce Certified Associate** (In Progress)
+- 🎓 **Salesforce Trailhead Modules** (Multiple Trails Completed)
+- 🎓 **Google AI Essentials** (AI/ML Fundamentals)
+- 🎓 **Full Stack Web Development** (Hands-on Projects)
+- 🎓 **Data Analysis & Process Mining** (Celonis, PQL)
+- 🎓 **IoT & Arduino Development** (Embedded Systems)
+
+---
+
+## 📂 Featured Projects
+
+### 1. 🤖 AI-Integrated Web Applications
+- Built intelligent web apps with AI capabilities
+- Integrated OpenAI/Google APIs for NLP features
+- Tech: React, Python, Node.js, REST APIs
+
+### 2. 📊 Process Mining Analysis
+- Analyzed business processes using Celonis
+- Generated optimization insights with PQL
+- Created visualization dashboards
+
+### 3. 🎮 Full Stack Gaming Projects
+- Developed multiplayer gaming platforms
+- Real-time data synchronization
+- Tech: React, Node.js, WebSockets
+
+### 4. 🔐 Smart Security Systems
+- Arduino-based Smart Alcohol-Responsive Ignition Lock
+- IoT sensor integration and data logging
+- Research publication in progress
+
+### 5. 📱 Responsive Web Applications
+- E-commerce platforms
+- Content management systems
+- Mobile-first design approach
+
+---
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=inba-11&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inba-11&theme=dark&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inba-11&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inba-11&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inba-11&layout=compact&theme=dark" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+---
 
-## 📚 Currently Exploring
-- Advanced **Data Structures & Algorithms**
-- **MERN Stack** full-stack projects
-- **DevOps & Docker Fundamentals**
+## 🎯 Current Focus
 
+- 🚀 **Advancing:** Full Stack Development with AI Integration
+- 📚 **Learning:** Advanced Salesforce Agentforce & Einstein AI
+- 💻 **Building:** Scalable web applications and AI agents
+- 🔬 **Exploring:** Advanced ML architectures and LLM applications
+- 📈 **Developing:** Data-driven business solutions
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/inbatamizhan-p-232a23295/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/inbatamizhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/inba-11">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
+  <a href="https://twitter.com/inba11" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:kit27.csbs23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:inbatamizhan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-livid-nine-zuxe7ln1hb.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfolio"/>
+  <a href="https://github.com/Inba-11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/kit27csbs23">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef">
-  </a>
-  <a href="https://leetcode.com/u/user1942nx/">
-    <img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000" alt="Leetcode">
-  </a>
-  <a href="https://codolio.com/profile/Inba">
-    <img src="https://img.shields.io/badge/Codeolio-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codolio">
-  </a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
+---
 
+## 💡 Let's Collaborate!
 
+I'm always interested in:
+- **Exciting Projects:** Full-stack web development, AI/ML applications
+- **Open Source:** Contributing to impactful projects
+- **Partnerships:** Building innovative solutions together
+- **Learning:** Sharing knowledge and growing together
 
+**Feel free to reach out** if you want to discuss tech, collaborate on projects, or just chat about the latest in web development and AI! 🤝
 
+---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
 
-
-
-
-
-
-
-<p align="center">
-🌌✨ Coding is like exploring space — endless, mysterious, and beautiful ✨🌌
-</p>
-
-
-
+<div align="center">
+  <p>Made with ❤️ by Inbatamizhan P</p>
+  <p>© 2025 | Full Stack Developer | Tech Innovator</p>
+</div>
