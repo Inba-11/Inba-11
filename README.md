@@ -129,6 +129,209 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
 </p>
 
 
+# pacman-contribution-graph — Pac‑Man style contribution graph
+
+Generate a Pac‑Man themed contribution graph for GitHub/GitLab. This README collects the available usage methods and examples so you can add it to your repository.
+
+## Installation
+
+Install the npm package (global or local):
+
+```bash
+# local
+npm install pacman-contribution-graph
+
+# global (for CLI)
+npm install -g pacman-contribution-graph
+```
+
+## Usage
+
+There are several ways to use the renderer: NPM module, module script, iframe/image embedding, GitHub Actions, GitLab pipeline, and CLI.
+
+### Method 1 — NPM package (in your web app)
+
+```js
+import { PacmanRenderer } from 'pacman-contribution-graph';
+
+const pr = new PacmanRenderer({
+    platform: 'github',              // 'github' or 'gitlab'
+    username: 'yourusername',
+    canvas: document.getElementById('canvas'),
+    outputFormat: 'canvas',          // 'canvas' or 'svg' depending on renderer
+    gameTheme: 'github'              // theme name, e.g., 'github' or 'gitlab'
+});
+pr.start();
+```
+
+### Method 2 — Script loading from CDN
+
+```html
+<script type="module">
+import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
+const pr = new PacmanRenderer({
+    platform: 'github',
+    username: 'yourusername',
+    canvas: document.getElementById('canvas'),
+    outputFormat: 'canvas',
+    gameTheme: 'github'
+});
+pr.start();
+</script>
+```
+
+### Method 3 — Iframe / Image embedding
+
+- Embed as a canvas in an iframe:
+
+```html
+<iframe
+  src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=yourusername&platform=github"
+  width="800"
+  height="600"
+  frameborder="0"
+></iframe>
+```
+
+- Embed as an SVG image:
+
+```html
+<img src="https://pacman.abozanona.me?username=yourusername" alt="pacman contribution graph" />
+```
+
+### Method 4 — GitHub Actions (generate and publish)
+
+Create a repository with the same name as your GitHub username. Add `.github/workflows/main.yml` with the following content (replace/adjust as needed):
+
+```yaml
+name: generate pacman game
+
+on:
+  schedule: # run automatically every 24 hours
+    - cron: "0 */24 * * *"
+  workflow_dispatch: # allows manual runs
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Add a `README.md` in that repository (replace `[USERNAME]`):
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+```
+
+See the original repo @abozanona for an example.
+
+### Method 5 — GitLab pipeline
+
+Create a repository named the same as your GitLab username. Create an Access Token (CI/CD Push Token) with `write_repository` scope and save it as a masked, protected variable `CI_PUSH_TOKEN`. Add a `.gitlab-ci.yml` like this:
+
+```yaml
+stages:
+  - generate
+  - deploy
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+generate_pacman_graph:
+  stage: generate
+  image: node:20
+  script:
+    - mkdir -p dist
+    - npm install -g pacman-contribution-graph
+    - pacman-contribution-graph --platform gitlab --username "$CI_PROJECT_NAMESPACE" --gameTheme gitlab --output pacman-contribution-graph-light.svg
+    - mv pacman-contribution-graph-light.svg dist/pacman-contribution-graph-light.svg
+    - pacman-contribution-graph --platform gitlab --username "$CI_PROJECT_NAMESPACE" --gameTheme gitlab-dark --output pacman-contribution-graph-dark.svg
+    - mv pacman-contribution-graph-dark.svg dist/pacman-contribution-graph-dark.svg
+  artifacts:
+    paths:
+      - dist/pacman-contribution-graph-light.svg
+      - dist/pacman-contribution-graph-dark.svg
+    expire_in: 1 hour
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+    - if: '$CI_PIPELINE_SOURCE == "push"'
+
+deploy_to_readme:
+  stage: deploy
+  image: alpine:latest
+  script:
+    - apk add --no-cache git
+    - mkdir -p output
+    - cp dist/pacman-contribution-graph-light.svg output/
+    - cp dist/pacman-contribution-graph-dark.svg output/
+    - git remote set-url origin https://gitlab-ci-token:${CI_PUSH_TOKEN}@gitlab.com/${CI_PROJECT_PATH}.git
+    - git config --global user.email "pacman-bot@example.com"
+    - git config --global user.name "Pacman Bot"
+    - git add output/pacman-contribution-graph-light.svg output/pacman-contribution-graph-dark.svg
+    - git commit -m "Update Pac-Man contribution graph [ci skip]" || echo "No changes"
+    - git push origin HEAD:main
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+    - if: '$CI_PIPELINE_SOURCE == "push"'
+```
+
+Add this in your repository README (replace `[USERNAME]`):
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-light.svg">
+  <img alt="pacman contribution graph" src="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-light.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+```
+
+To schedule pipeline runs: Project → CI/CD → Schedules → New schedule. Use a cron like `0 2 * * *` to run daily at 02:00 UTC.
+
+### Method 6 — CLI
+
+Run the CLI to generate images:
+
+```bash
+# example for GitLab (change platform and theme as needed)
+pacman-contribution-graph --platform gitlab --username username --gameTheme github --output output.svg
+```
+
+## Tips
+
+- Replace all `[USERNAME]` placeholders with your actual username.
+- For GitHub Actions, using a separate branch (e.g., `output`) avoids making the repository README binary-heavy on every push to main.
+- For GitLab, keep your CI push token secret and protect it.
+
+## Credits
+
+Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/).
 
 
 
