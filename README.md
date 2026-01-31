@@ -60,16 +60,7 @@ Currently exploring the <b>MERN Stack</b> and diving deep into <b>Java</b> for D
 
 <div align="center">
 
-## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=inba-11&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inba-11&theme=dark&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inba-11&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
 ## 📚 Currently Exploring
 - Advanced **Data Structures & Algorithms**
