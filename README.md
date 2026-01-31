@@ -145,22 +145,6 @@ Transform your GitHub or GitLab contribution graph into an interactive Pac-Man g
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🎮 Features
-
-Elevate your GitHub profile with the Pac-Man Contribution Graph Game and add a playful touch to your coding journey!
-
-- **Contribution Visualization**: Converts your GitHub or GitLab contribution data into a colorful grid.
-- **Pac-Man Gameplay**: Classic Pac-Man mechanics where commits are edible dots
-- **Multiple Themes**: Choose between different themes, such as GitHub Dark and GitLab Dark.
-- **Customizable Settings**: Adjust game speed, sound preferences, and output format (Canvas or SVG).
-- **GitHub Integration**: Automatically fetches your contribution data via GraphQL API
-- **GitHub Action**: Easy to add to your profile or website README
-
-## 🕹️ Demo
-
-Experience the game firsthand:
-
-**Live Demo**: [Pac-Man Contribution Game](https://abozanona.github.io/pacman-contribution-graph/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
